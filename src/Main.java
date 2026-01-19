@@ -1,12 +1,14 @@
-import javax.swing.SwingUtilities;
-
+import javax.swing.*;
+import controller.DashboardController;
+import view.DashboardView;
+import model.FragenPool;
 
 public class Main {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
-            FachbegriffModel model = new FachbegriffModel();
+            FragenPool pool = new FragenPool();
             DashboardView view = new DashboardView();
-            new DashboardController(view, model);
+            new DashboardController(view, pool);
             view.setVisible(true);
         });
     }

@@ -1,0 +1,25 @@
+TYPE;BEGRIFF;BESCHREIBUNG;KATEGORIE;SCHWIERIGKEIT;FRAGETYP;FRAGE;ANTWORT
+BEGRIFF;Substantiv;Nomen, bezeichnet Dinge oder Lebewesen;Grammatik;1;;;
+BEGRIFF;Verb;Tätigkeits- oder Zustandswort;Grammatik;1;;;
+BEGRIFF;Adjektiv;Eigenschafts- oder Beiwort;Grammatik;1;;;
+BEGRIFF;Kasus;Grammatischer Fall (Nominativ, Genitiv, Dativ, Akkusativ);Grammatik;2;;;
+BEGRIFF;Prädikat;Satzaussage, meist ein Verb;Syntax;2;;;
+BEGRIFF;Nebensatz;Untergeordneter Satz mit eigenem Verb;Syntax;2;;;
+BEGRIFF;Konjunktion;Bindewort zwischen Wörtern oder Sätzen;Grammatik;2;;;
+BEGRIFF;Partizip;Mittelwort (z. B. Partizip I oder II);Grammatik;3;;;
+BEGRIFF;Substantiv;Nomen, bezeichnet Dinge oder Lebewesen;Grammatik;1;;;
+BEGRIFF;Wortarten;Einteilung von Wörtern nach ihrer Funktion;Grammatik;1;;;
+
+FRAGE;;;;;TEXT;Welche Wortart bezeichnet Dinge oder Lebewesen?;Substantiv
+FRAGE;;;;;TEXT;Welche Wortart beschreibt Tätigkeiten oder Zustände?;Verb
+FRAGE;;;;;TEXT;Welche Wortart beschreibt Eigenschaften?;Adjektiv
+FRAGE;;;;;TEXT;Wie nennt man die grammatischen Fälle?;Kasus
+FRAGE;;;;;TEXT;Wie nennt man die Satzaussage?;Prädikat
+FRAGE;;;;;TEXT;Wie nennt man einen untergeordneten Satz?;Nebensatz
+FRAGE;;;;;TEXT;Wie nennt man ein Bindewort zwischen Sätzen?;Konjunktion
+FRAGE;;;;;TEXT;Wie nennt man das Mittelwort?;Partizip
+
+FRAGE;;;;;BILD;https://upload.wikimedia.org/wikipedia/commons/a/ad/Apfel-Piktogramm.png;Apfel
+FRAGE;;;;;BILD;https://upload.wikimedia.org/wikipedia/commons/8/8e/Hauskatze_langhaar.jpg;Katze
+FRAGE;;;;;BILD;https://www.lerntherapie-vs.de/wp-content/uploads/2025/01/screenshot-2025-01-25-200057-e1738358111434.png;lesen
+
